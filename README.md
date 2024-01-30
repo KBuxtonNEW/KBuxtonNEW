@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Kieran Buxton
+- 👀 I’m interested in sports, coding, and gaming.
+- 🌱 I’m currently learning how to code in python using pandas and matplotlib which I hope to further advance in and use to start doing some machine learning.
+- 💞️ I’m looking to collaborate on any python code I could help with even the tiniest bit.
+- 📫 How to reach me kieranbuxton22@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I lived in Costa Rica for 3 years as a kid.
